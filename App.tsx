@@ -42,6 +42,6 @@ const styles = StyleSheet.create({
 	},
 	text: {
 		color: 'white',
-		fontFamily: 'Inter_800ExtraBold',
+		fontFamily: 'Inter_700Bold',
 	},
 });
